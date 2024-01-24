@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border{
+    border: 2px solid dashed;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    transition: all ease 0.5s;
+
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
